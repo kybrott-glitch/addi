@@ -42,7 +42,7 @@ logger = logging.getLogger(__name__)
 # ║  4. OWNER_ID   → message @userinfobot to get your user ID       ║
 # ╚══════════════════════════════════════════════════════════════════╝
 
-BOT_TOKEN    = "8634603705:AAH7v0fwn4C3vK_SRQnWOh3OnqTdyFHRukA"
+BOT_TOKEN    = "8436389782:AAHiL2mYHd89uoGickZu7ZOL-8uS9eBkPWU"
 API_ID       = 21752358
 API_HASH     = "fb46a136fed4a4de27ab057c7027fec3"
 OWNER_ID     = 1899208318
